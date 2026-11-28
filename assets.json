@@ -1,0 +1,18 @@
+{
+  "repo": "ekimbap/reparadise-web-assets",
+  "tag": "web-4f1596d52ac1",
+  "files": {
+    "index.pck": {
+      "size": 96805968,
+      "sha256": "fa0e63d0f9b400cb8924bae80adaf9ab1a2362e0e9dff8c10147dd68f890cc4e"
+    },
+    "index.wasm": {
+      "size": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    },
+    "vistas_v10_cdn.tar.gz": {
+      "size": 3592554,
+      "sha256": "2fe04984429a6bfb59acf56ccd3944b8049d6940d3dddce4b32f3bf5425f616a"
+    }
+  }
+}
